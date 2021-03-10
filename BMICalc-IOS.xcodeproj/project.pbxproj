@@ -58,13 +58,29 @@
 			children = (
 				0E81CDCB25F8770C00942FEE /* AppDelegate.swift */,
 				0E81CDCD25F8770C00942FEE /* SceneDelegate.swift */,
-				0E81CDCF25F8770C00942FEE /* ViewController.swift */,
-				0E81CDD125F8770C00942FEE /* Main.storyboard */,
+				0E81CDE025F8773100942FEE /* Controllers */,
+				0E81CDE125F8773D00942FEE /* Views */,
 				0E81CDD425F8770D00942FEE /* Assets.xcassets */,
 				0E81CDD625F8770D00942FEE /* LaunchScreen.storyboard */,
 				0E81CDD925F8770D00942FEE /* Info.plist */,
 			);
 			path = "BMICalc-IOS";
+			sourceTree = "<group>";
+		};
+		0E81CDE025F8773100942FEE /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0E81CDCF25F8770C00942FEE /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		0E81CDE125F8773D00942FEE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0E81CDD125F8770C00942FEE /* Main.storyboard */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
