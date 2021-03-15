@@ -125,6 +125,7 @@
                             <constraint firstAttribute="bottom" secondItem="1aw-m6-Lpm" secondAttribute="bottom" id="mNU-QM-J1B"/>
                         </constraints>
                     </view>
+                    <navigationItem key="navigationItem" id="YVE-kk-S1P"/>
                     <connections>
                         <outlet property="heightLabel" destination="att-5q-gIM" id="Zus-Jf-Tv1"/>
                         <outlet property="heightSlider" destination="K9V-pg-qY5" id="SEq-WL-ywk"/>
