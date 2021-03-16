@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0E220B492600545B00872EF8 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E220B482600545B00872EF8 /* CalculatorBrain.swift */; };
+		0E220B4D260080D700872EF8 /* BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E220B4C260080D700872EF8 /* BMI.swift */; };
 		0E81CDCC25F8770C00942FEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E81CDCB25F8770C00942FEE /* AppDelegate.swift */; };
 		0E81CDCE25F8770C00942FEE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E81CDCD25F8770C00942FEE /* SceneDelegate.swift */; };
 		0E81CDD025F8770C00942FEE /* CalculateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E81CDCF25F8770C00942FEE /* CalculateViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		0E220B482600545B00872EF8 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
+		0E220B4C260080D700872EF8 /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = "<group>"; };
 		0E81CDC825F8770C00942FEE /* BMICalc-IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMICalc-IOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E81CDCB25F8770C00942FEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0E81CDCD25F8770C00942FEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				0E220B482600545B00872EF8 /* CalculatorBrain.swift */,
+				0E220B4C260080D700872EF8 /* BMI.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E220B4D260080D700872EF8 /* BMI.swift in Sources */,
 				0E81CDD025F8770C00942FEE /* CalculateViewController.swift in Sources */,
 				0E81CDCC25F8770C00942FEE /* AppDelegate.swift in Sources */,
 				0E81CDCE25F8770C00942FEE /* SceneDelegate.swift in Sources */,
