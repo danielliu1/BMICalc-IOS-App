@@ -5,3 +5,9 @@ struct BMI {
     let advice: String
     let color: UIColor
 }
+
+struct BMI {
+    let value: Float
+    let advice: String
+    let color: UIColor
+}
